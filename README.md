@@ -9,7 +9,7 @@ Guideline https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines
 
 ## Prerequiste
 ` You required Phython in your system fyou can follow this (https://www.python.org) ` <br/>
-` OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys) `
+` OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys) `<br/>
 ` Install Jupyter Notebook to run the code `
 
 ## How to run
